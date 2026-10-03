@@ -2,14 +2,6 @@
 
 A modern and responsive website for **Crumb & Co**, built with a clean and elegant design to showcase the brand and provide a smooth browsing experience.
 
-## 🌐 Live Preview
-
-[Visit Crumb & Co](https://crub-and-co.netlify.app/)
-
-## 📸 Screenshot
-
-![Crumb & Co Website](screenshots/landing-page.png)
-
 ## ✨ Features
 
 * Modern and clean design
@@ -20,12 +12,19 @@ A modern and responsive website for **Crumb & Co**, built with a clean and elega
 * Attractive product/brand showcase
 * Simple and user-friendly experience
 
+## 📸 Screenshot
+
+![Crumb & Co Website](screenshots/landing-page.png)
+
+
 ## 🛠️ Technologies
 
 * HTML5
 * CSS3
 * JavaScript
 
-## 🚀 Live Website
+## Getting Started
 
-**https://crumb-and-co.netlify.app/**
+1. Clone the repository.
+2. Open `index.html` in your browser.
+3. Explore the Crumb & Co website.
