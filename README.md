@@ -2,11 +2,7 @@
 
 A modern and responsive website for **Crumb & Co**, built with a clean and elegant design to showcase the brand and provide a smooth browsing experience.
 
-## 🌐 Live Preview
-
-[Visit Crumb & Co](https://crub-and-co.netlify.app/)
-
-## 📸 Screenshot
+## 📸 Screenshots
 
 ![Crumb & Co Website](screenshots/landing-page.png)
 
@@ -28,4 +24,4 @@ A modern and responsive website for **Crumb & Co**, built with a clean and elega
 
 ## 🚀 Live Website
 
-**https://crumb-and-co.netlify.app/**
+**https://crumb-and-co-bakery.vercel.app/**
